@@ -124,5 +124,8 @@ plt.show()
 ### Output:
 ##### Original vs Noisy Vs Reconstructed Image
 
+![Screenshot 2024-11-04 105525](https://github.com/user-attachments/assets/e9bb295a-be19-4f17-ae18-1bdb066d6980)
+
+
 ### Result:
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
