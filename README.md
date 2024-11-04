@@ -1,4 +1,4 @@
-# EX-07 Convolutional Autoencoder for Image Denoising
+# Convolutional Autoencoder for Image Denoising
 ### Aim:
 To develop a convolutional autoencoder for image denoising application. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ### Problem Statement and Dataset:
